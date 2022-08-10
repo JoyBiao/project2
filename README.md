@@ -45,5 +45,6 @@ You can learn more in the [Create React App documentation](https://facebook.gith
 
 To learn React, check out the [React documentation](https://reactjs.org/).
 # project2!
-[Screenshot (1400)](https://user-images.githubusercontent.com/45720469/183806843-d56d1d8a-082a-406c-a03d-99fe6efce17f.jpg)
 
+
+![Screenshot (1400)](https://user-images.githubusercontent.com/45720469/183806906-1002df85-6a7c-4e3f-b170-caba177588b2.jpg)
